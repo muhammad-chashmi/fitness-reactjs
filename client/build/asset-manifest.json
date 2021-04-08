@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2744c8a2.chunk.css",
+    "main.js": "/static/js/main.a70e8b9d.chunk.js",
+    "main.js.map": "/static/js/main.a70e8b9d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.f7b6a2dc.chunk.js": "/static/js/2.f7b6a2dc.chunk.js",
+    "static/js/2.f7b6a2dc.chunk.js.map": "/static/js/2.f7b6a2dc.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b48db20c9d744da3b554ec5007399c29.js": "/precache-manifest.b48db20c9d744da3b554ec5007399c29.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.2744c8a2.chunk.css.map": "/static/css/main.2744c8a2.chunk.css.map",
+    "static/media/index.css": "/static/media/IRANSans-web.bab5e043.ttf",
+    "static/media/berger.jpg": "/static/media/berger.64a62810.jpg",
+    "static/media/bootstrap.min.css": "/static/media/glyphicons-halflings-regular.fa277232.woff"
+  }
+}

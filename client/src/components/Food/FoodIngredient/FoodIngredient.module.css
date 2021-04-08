@@ -1,0 +1,20 @@
+.bread{
+    color: #000;
+    background: burlywood;
+    margin: 20px 50px;
+}
+.hotDog {
+    color: #fff;
+    background: orangered;
+    margin: 2px;
+}
+.cheese{
+    color: #000;
+    background: yellow;
+    margin: 2px;
+}
+.salad{
+    color: #fff;
+    background: green;
+    margin: 2px;
+}
